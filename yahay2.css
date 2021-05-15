@@ -734,3 +734,18 @@ a.btn.minix.fa.fa-times.fr {
     width: 13px;
     margin-right: 2px;
 }
+.broadcasters {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    background: #000;
+    left: 0;
+	    width: 99%;
+    height: 48px;
+    margin-left: 2px;
+    color: #ffffff;
+    border: 1px solid#f9f9f9!important;
+    border-radius: 10px;
+    background-image: url(https://i.imgur.com/eqGvZEC.gif)!important;
+    font-family: 'Almarai',sans-serif;
+}
