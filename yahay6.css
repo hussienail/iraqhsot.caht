@@ -772,3 +772,13 @@ a.btn.minix.fa.fa-times.fr {
 
 }
 
+.fa-microphone:before {
+    position: absolute;
+    content: "";
+    top: 0;
+    margin-top: 0;
+    margin-left: -16px;
+    width: 32px;
+    height: 32px;
+    background: url(https://g.top4top.io/p_1952d2qxr1.png)100% 100% / 100% 100% no-repeat!important;
+}
