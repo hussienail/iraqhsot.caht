@@ -2733,3 +2733,231 @@ a.btn.minix.btn-primary.fa.fa-heart.fr {
 .fa-thumbs-up:before {
     content: "\f164";
 }
+}
+.ae, button.btn {
+    border-radius: 3px;
+    border: #e8e8e8 solid 1px;
+}
+.border {
+    border: #e8e8e8 solid 1px;
+}
+.fl.fa.fa-sign-in.btn.btn-primary.dots.roomh.border.corner {
+    background-color: #c31e1e!important;
+    padding: 1px 4px!important;
+    pointer-events: none;
+}
+input[type=jfa-w] {
+  font-size:15px !important;
+  width:100%;
+  text-align:center;
+  color:#885867;
+  border-radius:14%;
+  margin-bottom:6px;
+  margin-top:1px;
+  margin-left:3px;
+}
+a.btn.minix.fa.fa-times.fr, a.btn.minix.fa.fa-thumbs-up.fr, a.btn.minix.fa.fa-comment.fr {
+    border-left: 1px solid #d3d3d3;
+    border-top: 1px solid #d3d3d3;
+    border-right: 1px solid #a6a6a6;
+    border-bottom: 1px solid #a6a6a6;
+    border-radius: 3px;
+}
+button.border.btn.label.label-success.fl.fa.fa-plus {
+    color: #ffffff !important;
+    font-family: jazeera, FontAwesome;
+    width: 100%;
+    border-radius: 0px;
+    border: 1px solid rgb(255 255 255);
+    content: " انشاء غرفة";
+    text-align: center!important;
+}
+a.btn.minix.btn-primary.fa.fa-heart.fr {
+    border-left: 1px solid #d3d3d3;
+    border-top: 1px solid #d3d3d3;
+    border-right: 1px solid #a6a6a6;
+    border-bottom: 1px solid #a6a6a6;
+    border-radius: 3px;
+}
+a.btn.minix.btn-primary.fa.fa-heart.fr {
+    color: #fff!important;
+    border-radius: 4px;
+    padding: 1px 4px 2px 5px;
+    margin-top: 6px;
+    background-repeat: repeat-x;
+    border-color: #b92c28;
+    background-image: linear-gradient(to bottom,#d9534f 0,#c12e2a 100%);
+    margin-left: 3px;
+}
+a.btn.minix.fa.fa-times.fr, a.btn.minix.fa.fa-thumbs-up.fr, a.btn.minix.fa.fa-comment.fr {
+    border-left: 1px solid #d3d3d3;
+    border-top: 1px solid #d3d3d3;
+    border-right: 1px solid #a6a6a6;
+    border-bottom: 1px solid #a6a6a6;
+    border-radius: 3px;
+}
+a.btn.minix.btn-primary.fa.fa-comment.fr {
+    color: #fff!important;
+    border-radius: 4px;
+    padding: 1px 4px 2px 5px;
+    margin-top: 6px;
+    background-repeat: repeat-x;
+    border-color: #c0a47c;
+    background-image: linear-gradient(to bottom,#c0a47c 0,#c0a47c 100%);
+}
+.fl.mini.fa.fa-bullhorn.btn.btnn-default {
+    font-size: 14px!important;
+    width: 100%;
+    background-color: #8a6d3b!important;
+    color: #fff;
+    text-align: center;
+    border-radius: 10%;
+    margin-bottom: 3px;
+    margin-top: 1px;
+    height: 25px;
+    padding: 5px 0;
+ margin-left: 1px;
+	}
+.border {
+    border: 1px solid #e8e8e8;
+    border-color: #e8e8e8 !important;
+}
+.label-primary, .btn-primary, .bg-primary, .label-primary:hover, .btn-primary:hover, .btn-primary:focus, .label-primary, .btn-primary {
+    border: 1px solid #fff;
+}
+span.busers.minix.badge.border {
+    display: -webkit-inline-box;
+    background-color: #ffffff00;
+}
+
+span.border {
+    border: none;
+}
+.ae.fa.chats.label.fa-comment.label-warning.fa-comment:before, .ae.fa.chats.label.fa-comment.label-primary.fa-comment:before {
+    content: "الخاص";
+}
+h3.popover-title, .fa-cog:before, .fa-commenting-o:before, .fa-group:before, .fa-users:before, span.border, .fl.fa.fa-comment.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.upm.borderg.fa-comment:before, .fa-envelope-o:before, .fa-diamond:before, .fa-search:before, .fa-ban:before, .fa-ban:before, .fa-user-times:before {
+    display: none;
+}
+.border {
+    /* border-color: #000 !important; */
+}
+
+.border {
+    /* border: 1px solid black; */
+}
+.uzr.fl.corner.borderg.hmsg.mm {
+    background-color: #8a6d3b61 !important;
+}
+
+.uzr.fl.corner.borderg.mm {
+    border-left: 2px solid #8a6d3b ;
+    margin-left: 0!important;
+    border-radius: 0!important;
+    width: 100%!important;
+    border-top: .7px solid #eee!important;
+    border-bottom: .7px solid #eee!important;
+    margin-bottom: 0!important;
+    line-height: 26px;
+}
+.border {
+    border: 1px solid #e8e8e8;
+    border-color: #e8e8e8 !important;
+}
+
+
+a.btn.minix.fa.fa-times.fr, a.btn.minix.fa.fa-thumbs-up.fr, a.btn.minix.fa.fa-comment.fr {
+    border-left: 1px solid #d3d3d3;
+    border-top: 1px solid #d3d3d3;
+    border-right: 1px solid #a6a6a6;
+    border-bottom: 1px solid #a6a6a6;
+    border-radius: 3px;
+}
+
+div#d2bc > div > a.btn.minix.btn-primary.fa.fa-times.fa {
+    color: #fff!important;
+    border-radius: 4px;
+    padding: 1px 4px 2px 5px;
+    margin-top: 6px;
+    background-repeat: repeat-x;
+    border-color: #fff!important;
+    background-image: linear-gradient(to bottom,#f8f9fa 0,#dee2e6 100%)!important;
+    margin-left: 1px;
+    width: 13px;
+    margin-right: 2px;
+}
+.fa-remove:before, .fa-close:before, .fa-times:before {
+    color: #f0f2f400;
+}
+
+.fa-remove:before, .fa-close:before, .fa-times:before {
+    content: "\f00d";
+}
+a.btn.minix.fa.fa-times.fr, a.btn.minix.fa.fa-thumbs-up.fr, a.btn.minix.fa.fa-comment.fr {
+    border-left: 1px solid #d3d3d3;
+    border-top: 1px solid #d3d3d3;
+    border-right: 1px solid #a6a6a6;
+    border-bottom: 1px solid #a6a6a6;
+    border-radius: 3px;
+}
+
+a.btn.minix.fa.fa-times.fr {
+    color: #fff!important;
+    border-radius: 4px;
+    padding: 1px 4px 2px 5px;
+    margin-top: 6px;
+    background-repeat: repeat-x;
+    border-color: #fff!important;
+    background-image: linear-gradient(to bottom,#f8f9fa 0,#dee2e6 100%)!important;
+    margin-left: 1px;
+    width: 13px;
+    margin-right: 2px;
+}
+.broadcasters {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    background: #000;
+    left: 0;
+	    width: 99%;
+    margin-left: 2px;
+    color: #ffffff;
+    border: 1px solid#f9f9f9!important;
+    border-radius: 10px;
+    background-image: url(https://i.imgur.com/eqGvZEC.gif)!important;
+    font-family: 'Almarai',sans-serif;
+}
+.broadcasters>div>.prod {
+    float: right;
+    width: 50px;
+    height: 52px;
+    border: 2px solid gainsboro;
+    margin: 0 1px;
+    text-align: center;
+    border-radius: 50%;
+    background-color: white;
+	position: relative;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    background-color: var(--gray);
+    color: #000;
+    display: inline-block;
+    font-size: 1.1rem;
+    border: 3px solid #989594;
+    cursor: pointer;
+    vertical-align: middle;
+    text-align: center;
+
+}
+
+.fa-microphone:before {
+    position: absolute;
+    content: "";
+    top: 0;
+    margin-top: 0;
+    margin-left: -16px;
+    width: 32px;
+    height: 32px;
+    background: url(https://g.top4top.io/p_1952d2qxr1.png)100% 100% / 100% 100% no-repeat!important;
+}
