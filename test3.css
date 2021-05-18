@@ -165,12 +165,23 @@ iframe#asim30 {
 }
 
 div#yahay1 {
-  text-align:center;
-  border-radius:0 0 7px 7px;
-  width:100%;
-  position:absolute;
-  top:173px;
-  right:0;
+text-align: center;
+    padding: 0;
+    margin-top: 119px;
+    padding-top: 6px;
+    height: 56px;
+    border-radius: 0 0 5% 5%;
+    width: 100%;
+    margin-left: 0;
+    margin-bottom: 5px;
+    position: absolute;
+    background-color: #f6f6f6;
+    border-bottom: 2px solid#2b6b77!important;
+    top: auto;
+    box-shadow: 0 1px 7px #ccc, 0 0 0 0 #d8d8d8;
+    font-family: cursive!important;
+    border-top: 1px #2b6b77 solid;
+    border-radius: 7px;
 }
 
 a#yahay2 {
