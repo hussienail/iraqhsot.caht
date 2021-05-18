@@ -2874,28 +2874,18 @@ a.btn.minix.fa.fa-times.fr {
     cursor: pointer;
     vertical-align: middle;
     text-align: center;
+
 }
-.broadcasters {
+
+.fa-microphone:before {
     position: absolute;
+    content: "";
     top: 0;
-    width: 100%;
-    background: #000;
-    left: 0;
-	    width: 99%;
-    margin-left: 2px;
-    color: #ffffff;
-    border: 1px solid#f9f9f9!important;
-    border-radius: 10px;
-    background-image: url(https://i.imgur.com/eqGvZEC.gif)!important;
-    font-family: 'Almarai',sans-serif;
+    margin-top: 0;
+    margin-left: -16px;
+    width: 32px;
+    height: 32px;
+    background: url(https://g.top4top.io/p_1952d2qxr1.png)100% 100% / 100% 100% no-repeat!important;
 }
-.broadcasters>div>.prod {
-    text-align: center;
-    border-radius: 50%;
-    background-color: white;
-    position: relative;
-    width: 45px;
-    height: 45px;
-    border-radius: 50%;
-}
+
 
