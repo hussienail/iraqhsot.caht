@@ -1594,5 +1594,15 @@ a#asim2 {
   background-color:#43a2a1 !important;
   margin-left:-8px;
 }
-
+.fr.borderg {
+    border: 0px;
+    margin-top: -3px;
+    height: 0;
+}
+.fr.borderg, .fr.borderg a {
+    font-size: 10px!important;
+    padding: 0 5px!important;
+    position: relative;
+    color: #0a0202;
+}
 
