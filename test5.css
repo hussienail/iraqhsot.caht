@@ -2142,7 +2142,10 @@ div#tlogins .fl.mini.u-msg {
   padding:7px;
   text-align:center;
 }
-
+span.busers.minix.badge.border, span.s1.fa.fa-user.label.badgex.label-as-badge.label-success, a#yahay3 {
+    background-color: hsla(0, 0%, 100%, 0) !important;
+    border: hsla(0, 0%, 100%, 0) !important;
+}
 a#yahay3 {
     text-decoration: none;
     font-size: 8px!important;
