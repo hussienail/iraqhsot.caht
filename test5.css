@@ -2143,17 +2143,18 @@ div#tlogins .fl.mini.u-msg {
   text-align:center;
 }
 
-a#jfa2 {
-  text-decoration:none;
-  font-size:8px !important;
-  height:0;
-  margin:0 0 0 19px;
-  line-height:9px;
-  position:absolute;
-  top:130px;
-  width:100px;
+a#yahay3 {
+    text-decoration: none;
+    font-size: 8px!important;
+    color: #75aeb4!important;
+    background: #fff0!important;
+    height: 12px;
+    margin: 0 0 0 19px;
+    line-height: 9px;
+    position: absolute;
+    top: 153px;
+    width: 148px;
 }
-
 div#tlogins .fade {
   opacity:1 !important;
   -webkit-transition:none !important;
