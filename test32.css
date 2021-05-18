@@ -2667,11 +2667,48 @@ div#tlogins::-webkit-scrollbar-track {
   border:65px none #fff;
   border-radius:34px;
 }
-.ae label label-primary fa fa-tv {
-padding: 7px 10px 5px;
-    margin-left: -4px!important;
-    border-radius: 0 3px 3px 0;
+#yahay01 {
+    font-family: 'fanni';
+    padding: 1px;
+    width: 65%;
+    height: 20px;
+    color: #FFF;
+    border-left: 2px solid#dc8181;
+    position: inherit!important;
+    border-radius: 0;
+    background: linear-gradient( 
+163deg
+,#46919f 0%,#024653 100%)!important;
+}
+font.yahay21 {
+    border: 1px dotted#f0ad4e;
+    background-color: #bd0000;
+    padding: 1px 10px 3px 4px;
+    color: #fff;
+    border-radius: 1px;
+    text-align: center;
     border-style: solid;
-    border-right: 4px solid;
-    border-right-style: ridge;
+    border-right: 7px solid;
+    border-left: 7px solid;
+    border-color: #fcf8e3;
+    border-left-style: double;
+    border-right-style: double;
+    font-family: jazeera,FontAwesome;
+    font-size: 13px!important;
+}
+font.yahay20 {
+    background-color: #bf0600;
+    padding: 1px 0 2px;
+    color: #fff;
+    border-radius: 1px;
+    border: 1px dotted#ffffff;
+    text-align: center;
+    border-style: solid;
+    border-right: 7px solid;
+    border-left: 7px solid;
+    border-color: #fcf8e3;
+    border-left-style: double;
+    border-right-style: double;
+    font-family: jazeera,FontAwesome;
+    font-size: 13px!important;
 }
