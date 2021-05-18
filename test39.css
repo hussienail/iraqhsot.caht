@@ -2874,22 +2874,25 @@ a.btn.minix.fa.fa-times.fr {
     cursor: pointer;
     vertical-align: middle;
     text-align: center;
-
 }
-
-.fa-microphone:before {
-    position: absolute;
-    content: "";
-    top: 0;
-    margin-top: 0;
-    margin-left: -16px;
-    width: 32px;
-    height: 32px;
-    background: url(https://g.top4top.io/p_1952d2qxr1.png)100% 100% / 100% 100% no-repeat!important;
-}
-div#chats {
-    background-image: url(https://mrkzgulfup.com/uploads/161600627142811.gif);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: 50% 50%;
-}
+.broadcasters {
+height: 48px;
+    margin-left: 2px;
+    color: #ffffff;
+    border: 1px solid#f9f9f9!important;
+    border-radius: 0px;
+    background-color: #8d367180!important;
+    background-image: url(https://i.imgur.com/eqGvZEC.gif)!important;
+    font-family: 'Almarai', sans-serif;
+    border-right: 7px solid !important;
+    border-right-width: 7px !important;
+    border-right-style: double !important;
+    border-left: 7px solid !important;
+    border-left-width: 7px !important;
+    border-color: #fefffc!important;
+    border-top-color: #fefffc!important;
+    border-right-color: #fefffc!important;
+    border-bottom-color: #fefffc!important;
+    border-left-color: #fefffc!important;
+    border-left-style: double !important;
+	}
