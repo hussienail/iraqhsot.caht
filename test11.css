@@ -1491,11 +1491,23 @@ ul.nav.nav-tabs.fl li .fa-user-plus:before {
   }
 }
 
-a#ادارة-جفى {
-  color:#fff !important;
-  position:absolute;
-  right:1px;
+span.busers.minix.badge.border, span.s1.fa.fa-user.label.badgex.label-as-badge.label-success, a#asim27 {
+    background-color: hsla(0, 0%, 100%, 0) !important;
+    border: hsla(0, 0%, 100%, 0) !important;
 }
+a#asim27 {
+    text-decoration: none;
+    font-size: 8px!important;
+    color: #75aeb4!important;
+    background: #fff0!important;
+    height: 12px;
+    margin: 0 0 0 19px;
+    line-height: 9px;
+    position: absolute;
+    top: 153px;
+    width: 148px;
+}
+
 
 .fl.fa.fa-sign-in.btn.btn-primary.dots.roomh.border.corner {
   background-color:#c31e1e !important;
