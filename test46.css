@@ -2948,3 +2948,16 @@ a.btn.minix.fa.fa-times.fr {
     background-color: #ffffffc7;
     border: 1px solid #d9534f70;
 }
+	label.fl.nosel.label.pnhead {
+    height: 35px;
+    background-image: repeating-linear-gradient(
+45deg
+,rgba(0,0,0,.8),#212529 100px,transparent 0,transparent 200px),repeating-linear-gradient(
+-45deg
+,rgba(0,0,0,.9),#212529 100px,transparent 0,#f8f9fa 200px);
+    background-color: #bfc0c1!important;
+    border-radius: 10px;
+    border: 1px solid #212529;
+    margin-top: -5px;
+    margin-bottom: 4px;
+}
