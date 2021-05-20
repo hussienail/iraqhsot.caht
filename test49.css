@@ -3011,4 +3011,9 @@ font-size: 14px!important;
     border-left-color: #f8f9fa !important;
     border-left-style: double !important;
     position: relative;
-    font-family: el messiri,FontAwesome!important;
+   
+#tv_box__body {
+    width: 299px;
+    height: 299px;
+    background: url(/imgs/tv_bg.png);
+}
