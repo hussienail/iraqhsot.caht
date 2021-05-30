@@ -123,3 +123,6 @@ label.fl.nosel.label.pnhead {
 span.fr, .fa-ban:before, .fa-ban:before, .fa-search:before, .fa-ban:before, .fa-ban:before, .fa-diamond:before, .fa-comment:before, .fa-envelope-o:before {
     display: none;
 }
+span.minix.badge.border, span.bwall.minix.badge.border, span.brooms.minix.badge.border {
+    display: none !important;
+}
