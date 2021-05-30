@@ -461,3 +461,45 @@ a#hack3:hover{color:#E31111!important;transform:rotate(0deg)}
 .cp{background-color:#E31111!important;color:white!important}
 .redit{background-color:#E31111!important;color:white!important}
 .pmsg{background-color:#E31111!important;color:white!important}
+
+	
+a.btn.minix.btn-primary.fa.fa-heart.fr {
+    color: #fff!important;
+    border-radius: 4px;
+    padding: 1px 4px 2px 5px;
+    margin-top: 6px;
+    background-repeat: repeat-x;
+    background-image: linear-gradient(to bottom,#d9534f 0,#c12e2a 100%);
+    margin-left: 3px;
+}
+
+a.btn.minix.btn-primary.fa.fa-heart.fr {
+    border-left: 1px solid #d3d3d3;
+    border-top: 1px solid #d3d3d3;
+    border-right: 1px solid #a6a6a6;
+    border-bottom: 1px solid #a6a6a6;
+    border-radius: 3px;
+}
+.fa-thumbs-up:before {
+    content: "\f164";
+}
+}
+.ae, button.btn {
+    border-radius: 3px;
+    border: #e8e8e8 solid 1px;
+}
+.border {
+    border: #e8e8e8 solid 1px;
+}
+.fl.fa.fa-sign-in.btn.btn-primary.dots.roomh.border.corner {
+    background-color: #c31e1e!important;
+    padding: 1px 4px!important;
+    pointer-events: none;
+}
+a.btn.minix.fa.fa-times.fr, a.btn.minix.fa.fa-thumbs-up.fr, a.btn.minix.fa.fa-comment.fr {
+    border-left: 1px solid #d3d3d3;
+    border-top: 1px solid #d3d3d3;
+    border-right: 1px solid #a6a6a6;
+    border-bottom: 1px solid #a6a6a6;
+    border-radius: 3px;
+}
