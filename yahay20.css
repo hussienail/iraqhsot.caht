@@ -1,4 +1,62 @@
 div#tlogins .hand.nosel.fl.uzr.border{width:99%!important;margin-top:5px!important;border-radius:3px!important;border:1px solid #e4e4e4}div#tlogins{border-color:#c5c5c5;outline:0;box-shadow:inset 0 2px 2px rgb(0 0 0/5%),0 0 8px #484747;border:1px solid#c5c5c5;background:#f5f5f5}body{background:linear-gradient(163deg,#fff 0%,#c5c5c5 100%)}.lonline.light.break{outline:#e8e6e6 solid 1px!important;background-color:#fff!important;background-image:-webkit-linear-gradient(45deg,rgba(255,255,255,.2) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.2) 50%,rgba(255,255,255,.2) 75%,transparent 75%,transparent)!important}div#l2 button.btn.btn-primary,div#l1 button.btn.btn-primary,div#l3 button.btn.btn-primary{border-radius:0!important;width:55px;position:inherit;height:20px;margin-bottom:7px;padding:0 0 3px;border:0 solid#ffffff!important;font-family:fanni}div#l2 button.btn.btn-primary,div#l1 button.btn.btn-primary,div#l3 button.btn.btn-primary{background:linear-gradient(163deg,#eea53d 0%,#eea741 100%)}div#l2 button.btn.btn-primary,div#l3 button.btn.btn-primary{margin-left:0!important;margin-top:10px!important}input#u1,input#u2,input#pass1,input#u3,input#pass2{border:1px solid #eea740;border-radius:0;text-align:center;border-style:solid;border-right:20px solid;border-left:20px solid;border-color:#c5c5c5;border-left-style:double;border-right-style:double;border-top:1px dotted #000!important;border-bottom-style:dashed}label.fl.label.loginstat{float:left!important;border-radius:0 7px 7px 0!important;position:absolute;top:189px;left:0;padding:3px 6px 2px 8px!important;margin-top:45px!important;font-family:fanni;font-size:14px!important;margin-left:-4px!important}.ukick{margin:0!important;width:60px!important;background-color:#fff!important;margin-top:14px!important;margin-left:-60px!important;position:absolute;top:1px}.uban{margin:0!important;width:60px!important;background-color:#fff;margin-top:73px!important;margin-left:-61px!important;position:absolute;top:1px}
+
+
+
+a.btn.minix.fa.fa-times.fr, a.btn.minix.fa.fa-thumbs-up.fr, a.btn.minix.fa.fa-comment.fr {
+    border-left: 1px solid #d3d3d3;
+    border-top: 1px solid #d3d3d3;
+    border-right: 1px solid #a6a6a6;
+    border-bottom: 1px solid #a6a6a6;
+    border-radius: 3px;
+}
+
+a.btn.minix.fa.fa-times.fr, a.btn.minix.fa.fa-thumbs-up.fr, a.btn.minix.fa.fa-comment.fr {
+    border-left: 1px solid #d3d3d3;
+    border-top: 1px solid #d3d3d3;
+    border-right: 1px solid #a6a6a6;
+    border-bottom: 1px solid #a6a6a6;
+    border-radius: 3px;
+}
+a.btn.minix.fa.fa-comment.fr {
+    color: #fff !important;
+    border-radius: 4px;
+    padding: 1px 4px 2px 5px;
+    margin-top: 6px;
+    background-repeat: repeat-x;
+    border-color: #28a4c9;
+    background-image: linear-gradient(to bottom,#2b8799 0,#2b8799 100%);
+}
+	a.btn.minix.fa.fa-comment:before {
+    content: "أضافة تعليق";
+    display: inline !important;
+    padding: 2px 0 0 2px;
+}
+
+span.fr, .fa-ban:before, .fa-ban:before, .fa-search:before, .fa-ban:before, .fa-ban:before, .fa-diamond:before, .fa-comment:before, .fa-envelope-o:before {
+    display: none;
+}
+	a.btn.minix.btn-primary.fa.fa-heart.fr {
+    border-left: 1px solid #d3d3d3;
+    border-top: 1px solid #d3d3d3;
+    border-right: 1px solid #a6a6a6;
+    border-bottom: 1px solid #a6a6a6;
+    border-radius: 3px;
+}
+
+a.btn.minix.btn-primary.fa.fa-heart.fr {
+    color: #fff!important;
+    border-radius: 4px;
+    padding: 1px 4px 2px 5px;
+    margin-top: 6px;
+    background-repeat: repeat-x;
+    background-image: linear-gradient(to bottom,#d9534f 0,#c12e2a 100%);
+    margin-left: 3px;
+}
+	.fa-thumbs-up:before {
+    content: "\f164";
+}
+
+
 .ae.fa.label.label-primary.fa-user {
     padding: 7px 12px 5px 9px;
     border-radius: 3px 0 0 3px;
@@ -398,56 +456,4 @@ font-size: 14px!important;
     height: 299px;
     background: url(/imgs/tv_bg.png);
 }
-a.btn.minix.fa.fa-times.fr, a.btn.minix.fa.fa-thumbs-up.fr, a.btn.minix.fa.fa-comment.fr {
-    border-left: 1px solid #d3d3d3;
-    border-top: 1px solid #d3d3d3;
-    border-right: 1px solid #a6a6a6;
-    border-bottom: 1px solid #a6a6a6;
-    border-radius: 3px;
-}
 
-a.btn.minix.fa.fa-times.fr, a.btn.minix.fa.fa-thumbs-up.fr, a.btn.minix.fa.fa-comment.fr {
-    border-left: 1px solid #d3d3d3;
-    border-top: 1px solid #d3d3d3;
-    border-right: 1px solid #a6a6a6;
-    border-bottom: 1px solid #a6a6a6;
-    border-radius: 3px;
-}
-a.btn.minix.fa.fa-comment.fr {
-    color: #fff !important;
-    border-radius: 4px;
-    padding: 1px 4px 2px 5px;
-    margin-top: 6px;
-    background-repeat: repeat-x;
-    border-color: #28a4c9;
-    background-image: linear-gradient(to bottom,#2b8799 0,#2b8799 100%);
-}
-	a.btn.minix.fa.fa-comment:before {
-    content: "أضافة تعليق";
-    display: inline !important;
-    padding: 2px 0 0 2px;
-}
-
-span.fr, .fa-ban:before, .fa-ban:before, .fa-search:before, .fa-ban:before, .fa-ban:before, .fa-diamond:before, .fa-comment:before, .fa-envelope-o:before {
-    display: none;
-}
-	a.btn.minix.btn-primary.fa.fa-heart.fr {
-    border-left: 1px solid #d3d3d3;
-    border-top: 1px solid #d3d3d3;
-    border-right: 1px solid #a6a6a6;
-    border-bottom: 1px solid #a6a6a6;
-    border-radius: 3px;
-}
-
-a.btn.minix.btn-primary.fa.fa-heart.fr {
-    color: #fff!important;
-    border-radius: 4px;
-    padding: 1px 4px 2px 5px;
-    margin-top: 6px;
-    background-repeat: repeat-x;
-    background-image: linear-gradient(to bottom,#d9534f 0,#c12e2a 100%);
-    margin-left: 3px;
-}
-	.fa-thumbs-up:before {
-    content: "\f164";
-}
