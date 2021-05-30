@@ -115,3 +115,11 @@ label.fl.nosel.label.pnhead {
   background-color:#1391a7;
 }
 
+.ae.fa.chats.label.label-primary.fa-comment:before {
+    content: "\f0e0";
+    display: inline !important;
+}
+
+span.fr, .fa-ban:before, .fa-ban:before, .fa-search:before, .fa-ban:before, .fa-ban:before, .fa-diamond:before, .fa-comment:before, .fa-envelope-o:before {
+    display: none;
+}
