@@ -398,3 +398,56 @@ font-size: 14px!important;
     height: 299px;
     background: url(/imgs/tv_bg.png);
 }
+a.btn.minix.fa.fa-times.fr, a.btn.minix.fa.fa-thumbs-up.fr, a.btn.minix.fa.fa-comment.fr {
+    border-left: 1px solid #d3d3d3;
+    border-top: 1px solid #d3d3d3;
+    border-right: 1px solid #a6a6a6;
+    border-bottom: 1px solid #a6a6a6;
+    border-radius: 3px;
+}
+
+a.btn.minix.fa.fa-times.fr, a.btn.minix.fa.fa-thumbs-up.fr, a.btn.minix.fa.fa-comment.fr {
+    border-left: 1px solid #d3d3d3;
+    border-top: 1px solid #d3d3d3;
+    border-right: 1px solid #a6a6a6;
+    border-bottom: 1px solid #a6a6a6;
+    border-radius: 3px;
+}
+a.btn.minix.fa.fa-comment.fr {
+    color: #fff !important;
+    border-radius: 4px;
+    padding: 1px 4px 2px 5px;
+    margin-top: 6px;
+    background-repeat: repeat-x;
+    border-color: #28a4c9;
+    background-image: linear-gradient(to bottom,#2b8799 0,#2b8799 100%);
+}
+	a.btn.minix.fa.fa-comment:before {
+    content: "أضافة تعليق";
+    display: inline !important;
+    padding: 2px 0 0 2px;
+}
+
+span.fr, .fa-ban:before, .fa-ban:before, .fa-search:before, .fa-ban:before, .fa-ban:before, .fa-diamond:before, .fa-comment:before, .fa-envelope-o:before {
+    display: none;
+}
+	a.btn.minix.btn-primary.fa.fa-heart.fr {
+    border-left: 1px solid #d3d3d3;
+    border-top: 1px solid #d3d3d3;
+    border-right: 1px solid #a6a6a6;
+    border-bottom: 1px solid #a6a6a6;
+    border-radius: 3px;
+}
+
+a.btn.minix.btn-primary.fa.fa-heart.fr {
+    color: #fff!important;
+    border-radius: 4px;
+    padding: 1px 4px 2px 5px;
+    margin-top: 6px;
+    background-repeat: repeat-x;
+    background-image: linear-gradient(to bottom,#d9534f 0,#c12e2a 100%);
+    margin-left: 3px;
+}
+	.fa-thumbs-up:before {
+    content: "\f164";
+}
