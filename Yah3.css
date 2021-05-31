@@ -88,7 +88,7 @@ div.corner.border.label.label-primary {
   display:inline-block;
   float:right;
   margin-right:1.5px !important;
-  border-bottom:0.1px solid#b6ebc1 !important;
+    border-bottom: 0.1px solid#22118f4a !important;
   border-right:.5px solid#ffffff !important;
   border-top:.5px solid#ffffff !important;
   border-left:.5px solid#ffffff !important;
@@ -105,7 +105,7 @@ div.corner.border.label.label-primary {
   text-align:center !important;
   color:#fff !important;
   box-shadow:0 2px 2px 0 rgba(0,0,0,0.14),0 1px 5px 0 rgba(0,0,0,0.12),0 3px 1px -2px rgba(0,0,0,0.2) !important;
-  background-image:radial-gradient(circle,#0a731e,#318541,#88cb96) !important;
+background-image: radial-gradient(circle,#22118f,#22118f,#22118f57) !important;
 }
 
 .btn-asim {
@@ -172,8 +172,8 @@ label.label.label-primary.mini.fl {
   border:none !important;
   border-radius:0 0 0 0 !important;
   font-family:fanni;
-  background:linear-gradient(163deg,#16782a 0%,#3aa750 100%) !important;
-  font-size:15px !important;
+linear-gradient(163deg,#5d51ad 0%,#22118f 100%) !important
+	font-size:15px !important;
 }
 
 div#tlogins::-webkit-scrollbar {
@@ -364,9 +364,9 @@ ul.nav.nav-tabs {
 }
 
 .lonline.light.break {
-  outline:#1c7e30 solid 1px !important;
-  background-color:#cfffd8 !important;
-  background-image:-webkit-linear-gradient(45deg,rgba(255,255,255,.2) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.2) 50%,rgba(255,255,255,.2) 75%,transparent 75%,transparent) !important;
+    outline: #22118fbf solid 1px !important;
+    background-color: #22118fc4 !important;
+	background-image:-webkit-linear-gradient(45deg,rgba(255,255,255,.2) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.2) 50%,rgba(255,255,255,.2) 75%,transparent 75%,transparent) !important;
 }
 
 .fl.label.loginstat.label-success {
@@ -400,7 +400,7 @@ ul.nav.nav-tabs.fl li a,
   border-left:2px solid#f0118c;
   position:inherit !important;
   border-radius:0;
-  background:linear-gradient(163deg,#7bc189 0%,#18792c 100%) !important;
+linear-gradient(163deg,#5d51ad 0%,#22118f 100%) !important
 }
 
 .a {
@@ -422,7 +422,7 @@ div#l1.grow.break.tab-pane.fade.active.in {
   margin-top:-2.8px !important;
   margin-left:160px !important;
   height:99px;
-  background-color:#68b37752;
+  background-color:##22118fbf;
   background-image:-webkit-linear-gradient(45deg,rgba(255,255,255,.2) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.2) 50%,rgba(255,255,255,.2) 75%,transparent 75%,transparent) !important;
   border-radius:7px;
 }
@@ -463,7 +463,7 @@ div#l3 {
   margin-left:160px !important;
   height:99px;
   border-radius:7px;
-  background-color:#68b37752;
+  background-color:#22118fbf;
   background-image:-webkit-linear-gradient(45deg,rgba(255,255,255,.2) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.2) 50%,rgba(255,255,255,.2) 75%,transparent 75%,transparent) !important;
 }
 
