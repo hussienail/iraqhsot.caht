@@ -1832,4 +1832,28 @@ font-size: 14px!important;
     height: 299px;
     background: url(/imgs/tv_bg.png);
 }
+span.corner.fa.fa-user.label.label-primary.fr.uc {
+    display: inline!important;
+}
+
+span.fr, .fa-ban:before, .fa-ban:before, .fa-search:before, .fa-ban:before, .fa-ban:before, .fa-diamond:before, .fa-comment:before, .fa-envelope-o:before {
+    display: none;
+}
+.label-primary, .btn-primary {
+    background-color: #1391A7!important;
+}
+.label-primary, .btn-primary, .bg-primary, .label-primary:hover, .btn-primary:hover, .btn-primary:focus {
+    background-color: #438ac7;
+    background-image: none;
+}
+	span.busers.minix.badge.border, span.s1.fa.fa-user.label.badgex.label-as-badge.label-success, a#asim27 {
+    background-color: hsla(0, 0%, 100%, 0) !important;
+    border: hsla(0, 0%, 100%, 0) !important;
+}
+
+span.busers.minix.badge.border {
+    display: inline!important;
+}
+span.minix.badge.border, span.bwall.minix.badge.border, span.brooms.minix.badge.border {
+    display: none!important;
 }
