@@ -400,7 +400,7 @@ ul.nav.nav-tabs.fl li a,
   border-left:2px solid#f0118c;
   position:inherit !important;
   border-radius:0;
-linear-gradient(163deg,#5d51ad 0%,#22118f 100%) !important
+    background-color: #22118f;
 }
 
 .a {
