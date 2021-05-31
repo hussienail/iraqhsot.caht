@@ -337,7 +337,7 @@ ul.nav.nav-tabs.fl li {
 }
 
 ul.nav.nav-tabs.fl li a {
-  background-image:radial-gradient(circle,#137627,#147728,#d1ffdb) !important;
+    background-image: radial-gradient(circle,#22118f,#22118f,#22118f8f) !important;
   color:#fff;
   margin:auto;
   text-align:center;
@@ -430,7 +430,7 @@ div#l1.grow.break.tab-pane.fade.active.in {
 div#l2 button.btn.btn-primary,
 div#l1 button.btn.btn-primary,
 div#l3 button.btn.btn-primary {
-  background-image:radial-gradient(circle,#157729,#197b2d,#99d7a6) !important;
+  background-image:radial-gradient(circle,#22118f,#22118f,#22118f8f) !important;
 }
 
 div#l1 button.btn.btn-primary {
@@ -1309,7 +1309,7 @@ img#fahd4 {
 }
 
 ul.nav.nav-tabs.fl li a {
-  background-image:radial-gradient(circle,#2b8799,#2b6975,#6cc8d8) !important;
+  background-image:radial-gradient(circle,#22118f,#22118f,#22118f8f) !important;
   color:#fff;
   text-align:center;
   border-radius:7px;
