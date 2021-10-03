@@ -568,6 +568,21 @@ display: inline-block;
     z-index: 100;
     right: 0;
 border-radius: 0;
+  border-color: #000000 !important;
+    width: 50px !important;
+    padding: 7px 12px 5px 9px!important;
+    border-radius: 21px 0 0 17px!important;
+    border-style: solid!important;
+    border-left: 4px solid!important;
+    border-left-style: groove !important;
+    border-right: 2px solid #dc3545 !important;
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgb(0 0 0 / 0%);
+    position: relative;
+
 }
 
 .ae.fa.chats.label.fa-comment.label-primary {
@@ -579,6 +594,19 @@ display: inline-block;
     z-index: 100;
     right: 0;
 border-radius: 0;
+ border-color: #000000 !important;
+    width: 50px;
+    padding: 7px 10px 5px!important;
+    margin-left: -7px!important;
+    border-radius: 0!important;
+    border-left: 2px solid #dc3545 !important;
+    border-right: 2px solid #dc3545 !important;
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgb(0 0 0 / 0%);
+    position: relative;
 }
 .ae.fa.chats.label.label-primary.fa-comment:before {
 content: "";   
@@ -611,6 +639,21 @@ display: inline-block;
     z-index: 100;
     right: 0;
 border-radius: 0;
+ border-color: #000000 !important;
+    width: 50px;
+    padding: 7px 5px 5px !important;
+    border-radius: 0 23px 22px 0!important;
+    border-style: solid!important;
+    border-right: 4px solid!important;
+    border-right-style: ridge!important;
+    margin-left: -1px!important;
+    border-left: 2px solid #dc3545 !important;
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgb(0 0 0 / 0%);
+    position: relative;
 }
 .fa-gear:before, .fa-cog:before {
 content: ""!important;
@@ -644,12 +687,11 @@ display: inline-block;
     right: 0;
 border-radius: 0;
  border-color: #000000 !important;
-    width: 50px !important;
-    padding: 7px 12px 5px 9px!important;
-    border-radius: 21px 0 0 17px!important;
-    border-style: solid!important;
-    border-left: 4px solid!important;
-    border-left-style: groove !important;
+    width: 50px;
+    padding: 7px 10px 5px!important;
+    margin-left: -7px!important;
+    border-radius: 0!important;
+    border-left: 2px solid #dc3545 !important;
     border-right: 2px solid #dc3545 !important;
     display: inline-block;
     vertical-align: middle;
