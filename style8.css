@@ -643,6 +643,20 @@ display: inline-block;
     z-index: 100;
     right: 0;
 border-radius: 0;
+ border-color: #000000 !important;
+    width: 50px !important;
+    padding: 7px 12px 5px 9px!important;
+    border-radius: 21px 0 0 17px!important;
+    border-style: solid!important;
+    border-left: 4px solid!important;
+    border-left-style: groove !important;
+    border-right: 2px solid #dc3545 !important;
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgb(0 0 0 / 0%);
+    position: relative;
 }
 
 .fa-user:before {
