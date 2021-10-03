@@ -95,7 +95,7 @@
     border-color: transparent transparent #888 transparent;
 }
 
-.ae.label.label-primary.fa.fa-gear :hover::after {
+.ae.label.label-primary.fa.fa-gear:hover::after {
     content: "الاعدادات";  
     background-color: #f00;
     top: -32px;
