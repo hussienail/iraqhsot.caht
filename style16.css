@@ -8,6 +8,9 @@
     border: 4px solid #888 !important;
 }
  .ae.fa.label.label-primary.fa-user:hover::before {
+  content: "\f007";
+    display: inline!important;
+    margin-left: 4px;
     pointer-events: none;
     position: absolute;
     z-index: -1;
