@@ -1594,3 +1594,13 @@ background-image: radial-gradient(circle,#484848,#888,#000)!important;
     position:absolute;
     left:50px;
   }
+ .ae.fa.label.label-primary.fa-user:hover::after {
+     content: "التواجد الان";
+    background-color: #f00;
+    top: -32px;
+    left: 4px;
+    position: absolute;
+    border-radius: 6px;
+    border: 4px solid #888 !important;
+}
+
