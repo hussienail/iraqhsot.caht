@@ -749,7 +749,14 @@ border-radius: 0;
     position: relative;
 
 }
-
+.fa-user:before {
+    display: inline!important;
+    margin-left: 2px;
+    position: fixed;
+    font-size: 13px;
+    margin-top: -5px;
+    margin-left: 6px;
+}
 .ae.fa.chats.label.fa-comment.label-primary {
 display: inline-block;
     position: relative;
