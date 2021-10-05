@@ -140,8 +140,10 @@ $(`<style>
     margin-left: 2px;
     height: 12px;
     border: hsl(0deg 95% 55% / 0%) !important;
+    }
+    span.busers.minix.badge.border {
+    display: inline!important;
 }
-
 div#tlogins img.fitimg.fl.u-pic {
     MARGIN-RIGHT: 5PX;
     border: .0001px solid #ffffff !important;
