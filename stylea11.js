@@ -8,6 +8,7 @@ div#l2 button,div#l3 button{position:absolute;width:110px;margin-top:0;padding:1
 90deg,#ff00148a 0,#000000 10%,#000000 51%,#000000 89%,#ff00148a 100%);outline:none;border-radius:4px;font-size:.9rem;color:#fff;cursor:pointer;transition:.3s;font-family:jazeera,FontAwesome}
 </style>`).insertBefore('body');
 $('div#showpf').css({position:absolute;background:rgb(237,234,234);margin-top:91px;z-index:1;padding:5px;margin-left:-21px;border-radius:10px;font-family:jazeera,FontAwesome;display:block;font-size:11px!important});
+$('span#name').css({position:relative;color:#fff;display:block;top:45px;font-size:12px!important;background:#000;top:77px!important;margin:-24px;border:2px solid #dc3545;font-family:jazeera,FontAwesome;font-size:11px!important});
 $('.nav-tabs').addClass('fl').css('width','100%');
 $(`<style>
 div#isfil.corner.border.label.label-primary {
