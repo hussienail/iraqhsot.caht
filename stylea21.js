@@ -9,16 +9,7 @@ div#l2 button,div#l3 button{position:absolute;width:110px;margin-top:0;padding:1
 </style>`).insertBefore('body');
 $('.nav-tabs').addClass('fl').css('width','100%');
 $(`<style>
-.badge {
-    margin-top: 8px;
-    padding: 1px 4px;
-    position: absolute;
-    background-color: #dc3545;
-    font-size: 12px;
-    margin-left: 2px;
-    height: 12px;
-    border: hsl(0deg 95% 55% / 0%) !important;
-}
+
 .ae.fa.label.label-primary.fa-user:hover::after {
      content: "التواجد الان";
     background-color: #f00;
@@ -140,7 +131,16 @@ $(`<style>
     border-width: 0 10px 10px 10px;
     border-color: transparent transparent #888 transparent;
 }
-
+.badge {
+    margin-top: 8px;
+    padding: 1px 4px;
+    position: absolute;
+    background-color: #dc3545;
+    font-size: 12px;
+    margin-left: 2px;
+    height: 12px;
+    border: hsl(0deg 95% 55% / 0%) !important;
+}
 
 div#tlogins img.fitimg.fl.u-pic {
     MARGIN-RIGHT: 5PX;
