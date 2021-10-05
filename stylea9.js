@@ -10,24 +10,31 @@ div#l2 button,div#l3 button{position:absolute;width:110px;margin-top:0;padding:1
 $('.uzr.fl.corner.borderg').css({'margin': '0px 0',borderRight: '0px solid #ffffff',borderLeft: '0px solid #ffffff',borderTop: '.0px solid #ffffff',borderBottom: '.0px solid #ffffff',paddingTop: '3px',borderRadius: '0px 0px 0px 0px'});
 $('.nav-tabs').addClass('fl').css('width','100%');
 $(`<style>
-div.hand.corner {
--webkit-animation: swoopOut 3s 1 ease forwards;
-background-image: radial-gradient(circle,#484848,#888,#000)!important;
+div#isfil.corner.border.label.label-primary {
+    font-size: .6rem;
+    text-align: center;
+    margin: -14px auto 0;
     font-family: jazeera,FontAwesome;
     font-size: 11px!important;
-    text-align: center;
-    color: #ffffff;
-    min-width: 180px;
-    max-width: 260px;
-    border: 1px solid #f8f9fa;
-    z-index: 2000;
-    background-color: #efefef;
-    position: absolute;
-    top: 30%;
-    padding: 5px;
+    width: 50%;
+    border: 1px solid #000;
     border-radius: 5px;
-    margin-bottom: -.2rem;
-    left: 15px
+    line-height: 1.6;
+}
+div.hand.corner {
+-webkit-animation: swoopOut 3s 1 ease forwards;
+    text-align: center;
+    color: #212529;
+    font-family: jazeera,FontAwesome;
+    font-size: 11px!important;
+    border: 1px solid #212529;
+    left: 15px;
+    transform: translate(16px,6px);
+    width: 90%;
+    border-radius: 10px;
+    box-shadow: 4px 4px 0 #000;
+    background: linear-gradient(225deg,#fefffc,#f8f9fa,#fefffc,#fefffc)!important;
+    -webkit-animation: swoopOut 10s ease 1 forwards;
 } 
 
 @-webkit-keyframes swoopOut {
