@@ -7,7 +7,7 @@ div#l1 button{display:block;width:50%;margin-left:90px;padding:1px 2px;text-alig
 div#l2 button,div#l3 button{position:absolute;width:110px;margin-top:0;padding:1px 2px;text-align:center;border:none!important;background:linear-gradient( 
 90deg,#ff00148a 0,#000000 10%,#000000 51%,#000000 89%,#ff00148a 100%);outline:none;border-radius:4px;font-size:.9rem;color:#fff;cursor:pointer;transition:.3s;font-family:jazeera,FontAwesome}
 </style>`).insertBefore('body');
-$('.uzr.fl.corner.borderg').css({'margin': '0px 0',borderRight: '0px solid #ffffff',borderLeft: '0px solid #ffffff',borderTop: '.0px solid #ffffff',borderBottom: '.0px solid #ffffff',paddingTop: '3px',borderRadius: '0px 0px 0px 0px'});
+$('div#showpf').css({position:absolute;background:rgb(237,234,234);margin-top:91px;z-index:1;padding:5px;margin-left:-21px;border-radius:10px;font-family:jazeera,FontAwesome;display:block;font-size:11px!important});
 $('.nav-tabs').addClass('fl').css('width','100%');
 $(`<style>
 div#isfil.corner.border.label.label-primary {
