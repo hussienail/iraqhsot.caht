@@ -9,6 +9,26 @@ div#l2 button,div#l3 button{position:absolute;width:110px;margin-top:0;padding:1
 </style>`).insertBefore('body');
 $('.nav-tabs').addClass('fl').css('width','100%');
 $(`<style>
+div#tlogins img.fitimg.fl.u-pic {
+    MARGIN-RIGHT: 5PX;
+    border: .0001px solid #ffffff !important;
+    background-image: url(pic.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    width: 42px;
+    height: 42px;
+    user-select: none;
+    cursor: default;
+    vertical-align: middle;
+    font-family: serif;
+    font-weight: bold;
+    text-shadow: none !important;
+    font-size: 15px !important;
+    margin-top: 1px;
+    border-radius: 50%;
+    box-shadow: inset 0 1px 1px #ffc107, 0 0 8px #888;
+}
 div#isfil.corner.border.label.label-primary {
     font-size: .6rem;
     text-align: center;
