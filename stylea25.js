@@ -131,19 +131,6 @@ $(`<style>
     border-width: 0 10px 10px 10px;
     border-color: transparent transparent #888 transparent;
 }
-.badge {
-    margin-top: 8px;
-    padding: 1px 4px;
-    position: absolute;
-    background-color: #dc3545;
-    font-size: 12px;
-    margin-left: 2px;
-    height: 12px;
-    border: hsl(0deg 95% 55% / 0%) !important;
-    }
-    span.busers.minix.badge.border {
-    display: inline!important;
-}
 div#tlogins img.fitimg.fl.u-pic {
     MARGIN-RIGHT: 5PX;
     border: .0001px solid #ffffff !important;
