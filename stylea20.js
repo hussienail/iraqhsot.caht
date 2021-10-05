@@ -19,16 +19,6 @@ $(`<style>
     height: 12px;
     border: hsl(0deg 95% 55% / 0%) !important;
 }
-span.busers.minix.badge.border {
-    margin-top: 8px;
-    padding: 1px 4px;
-    position: absolute;
-    background-color: #dc3545;
-    font-size: 12px;
-    margin-left: 2px;
-    height: 12px;
-    border: hsl(0deg 95% 55% / 0%) !important;
-}
 .ae.fa.label.label-primary.fa-user:hover::after {
      content: "التواجد الان";
     background-color: #f00;
