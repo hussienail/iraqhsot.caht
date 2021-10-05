@@ -63,4 +63,27 @@ span#name{
     margin: -24px;
     border: 2px solid #dc3545;
 }
+div#tlogins img.fitimg.fl.u-pic {
+    /* border-radius: 5px; */
+    /* box-shadow: 0 0 3px 0 rgb(0 0 0 / 43%); */
+    /* border: 1px solid #6f6f6f; */
+    MARGIN-RIGHT: 5PX;
+    border: .0001px solid #ffffff !important;
+    background-image: url(pic.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    width: 42px;
+    height: 42px;
+    user-select: none;
+    cursor: default;
+    vertical-align: middle;
+    font-family: serif;
+    font-weight: bold;
+    text-shadow: none !important;
+    font-size: 15px !important;
+    margin-top: 1px;
+    border-radius: 50%;
+    box-shadow: inset 0 1px 1px #ffc107, 0 0 8px #888;
+}
 </style>`).insertBefore("body");
