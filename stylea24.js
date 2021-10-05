@@ -7,7 +7,6 @@ div#l1 button{display:block;width:50%;margin-left:90px;padding:1px 2px;text-alig
 div#l2 button,div#l3 button{position:absolute;width:110px;margin-top:0;padding:1px 2px;text-align:center;border:none!important;background:linear-gradient( 
 90deg,#ff00148a 0,#000000 10%,#000000 51%,#000000 89%,#ff00148a 100%);outline:none;border-radius:4px;font-size:.9rem;color:#fff;cursor:pointer;transition:.3s;font-family:jazeera,FontAwesome}
 </style>`).insertBefore('body');
-$('.span.busers.minix.badge.border').css({display:inline-block;min-width:10px;padding:3px 7px;font-size:12px;font-weight:700;line-height:1;color:#fff;text-align:center;white-space:nowrap;vertical-align:middle;background-color:#ff2b2b;border-radius:10px});
 $('.nav-tabs').addClass('fl').css('width','100%');
 $(`<style>
 
