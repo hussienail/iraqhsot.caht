@@ -9,6 +9,129 @@ div#l2 button,div#l3 button{position:absolute;width:110px;margin-top:0;padding:1
 </style>`).insertBefore('body');
 $('.nav-tabs').addClass('fl').css('width','100%');
 $(`<style>
+.ae.fa.label.label-primary.fa-user:hover::after {
+     content: "التواجد الان";
+    background-color: #f00;
+    top: -32px;
+    left: 4px;
+    position: absolute;
+    border-radius: 6px;
+    border: 4px solid #888 !important;
+}
+.ae.fa.label.label-primary.fa-user:hover::before {
+    pointer-events: none;
+    position: absolute;
+    z-index: -1;
+    content: '';
+    border-style: solid;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+    left: calc(50% - 10px);
+    top: -12px;
+    border-width: 0 10px 10px 10px;
+    border-color: transparent transparent #888 transparent;
+}
+
+.ae.fa.chats.label.fa-comment.label-primary:hover::after {
+    content: "الرسايل الخاصة";  
+    background-color: #f00;
+    top: -32px;
+    left: -7px;
+    position: absolute;
+    border-radius: 6px;
+    border: 4px solid #888 !important;
+}
+.ae.fa.chats.label.fa-comment.label-primary:hover::before {
+    pointer-events: none;
+    position: absolute;
+    z-index: -1;
+    content: '';
+    border-style: solid;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+    left: calc(50% - 10px);
+    top: -12px;
+    border-width: 0 10px 10px 10px;
+    border-color: transparent transparent #888 transparent;
+}
+.ae.fa.label.label-primary.fa-users:hover::after {
+    content: "غرف الدردشة";
+    background-color: #f00;
+    top: -32px;
+    left: -7px;
+    position: absolute;
+    border-radius: 6px;
+    border: 4px solid #888 !important;
+}
+.ae.fa.label.label-primary.fa-users:hover::before {
+    pointer-events: none;
+    position: absolute;
+    z-index: -1;
+    content: '';
+    border-style: solid;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+    left: calc(50% - 10px);
+    top: -12px;
+    border-width: 0 10px 10px 10px;
+    border-color: transparent transparent #888 transparent;
+}
+.ae.fa.label.fa-commenting-o.label-primary:hover::after {
+    content: "جدار النشر";  
+    background-color: #f00;
+    top: -32px;
+    left: 0px;
+    position: absolute;
+    border-radius: 6px;
+    border: 4px solid #888 !important;
+}
+.ae.fa.label.fa-commenting-o.label-primary:hover::before {
+    pointer-events: none;
+    position: absolute;
+    z-index: -1;
+    content: '';
+    border-style: solid;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+    left: calc(50% - 10px);
+    top: -12px;
+    border-width: 0 10px 10px 10px;
+    border-color: transparent transparent #888 transparent;
+}
+.ae.label.label-primary.fa.fa-gear:hover::after {
+    content: "الاعدادات";  
+    background-color: #f00;
+    top: -32px;
+    left: 2px;
+    position: absolute;
+    border-radius: 6px;
+    border: 4px solid #888 !important;
+}
+.ae.label.label-primary.fa.fa-gear:hover::before {
+    pointer-events: none;
+    position: absolute;
+    z-index: -1;
+    content: '';
+    border-style: solid;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+    left: calc(50% - 10px);
+    top: -12px;
+    border-width: 0 10px 10px 10px;
+    border-color: transparent transparent #888 transparent;
+}
+
+
 div#tlogins img.fitimg.fl.u-pic {
     MARGIN-RIGHT: 5PX;
     border: .0001px solid #ffffff !important;
