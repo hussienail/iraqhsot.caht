@@ -1,3 +1,11 @@
+div#dpnl.dpnl.bg.tab-content {
+    padding: 2px 5px;
+    border-radius: 10px;
+    box-shadow: 5px 4px 30px #000;
+    border: 3px solid hsla(0,0%,100%,.8588235294117647)!important;
+    background: hsla(0,0%,100%,.8588235294117647)!important;
+    animation: fuck 1s !important;
+}
 label.fl.nosel.label.pnhead {
     color: #fff;
     background-color: #885867;
