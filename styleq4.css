@@ -1,5 +1,13 @@
-div#users {
-    width: 100%;
+input.smsg.corner.dots, input.stopic.corner.dots {
+    padding: 2px;
+    border-right: 3px groove #18191b;
+    border-left: 3px groove #161718;
+    border-top-color: #17191a;
+    border-bottom-color: #161819;
+    min-height: 28px!important;
+    text-align: center;
+    width: 99%!important;
+    border-radius: 3px!important;
 }
 div#dpnl.dpnl.bg.tab-content {
     padding: 2px 5px;
