@@ -1,3 +1,6 @@
+div#users {
+    width: 100%;
+}
 div#dpnl.dpnl.bg.tab-content {
     padding: 2px 5px;
     border-radius: 10px;
