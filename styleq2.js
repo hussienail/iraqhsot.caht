@@ -229,7 +229,94 @@ $(`<span id="name" style="
     margin: -24px;
     border: 2px solid #dc3545;
     "</span>`).insertBefore
-}
-													catch (e){
-															console.log(e)
-														}
+$(`<div class="primaryColor" style="border-bottom: 30px solid;
+    border-bottom: 30px solid;
+    border-left: 33px solid transparent;
+    height: 0;
+    width: 47%;
+    float: right;
+    position: absolute;
+    top: 249px;
+    right: 0px!important;
+    z-index: 3;">
+                        <label title="المتواجدين الآن" class="label label-primary mini " style="width: 100%;height: 24px;float: right;padding-top: 8px;">
+                            <img src="https://s3wlf.com/styleone/m2.png" style="margin-right: 10px;width: 22px;margin-top: -4px;">
+                   <span class="s1 label badgex   label-as-badge " style="float: left;margin-left: -50%;">3</span>
+                            المتواجدين الآن
+                        </label>`).insertBefore('.nav-tabs');
+
+$(`<div class="primaryColor" style="border-bottom: 30px solid;
+    border-right: 33px solid transparent;
+    height: 0;
+    width: 47%;
+    float: left;
+    position: absolute;
+    top: 249px;
+    z-index: 3;">
+                        <label class="asim loginstat " style="    color: #fff;
+    border-radius: 1px;
+    margin-left: 2px;
+    float: left;
+    padding: 6px;">متصل</label>
+                        <img src="https://s3wlf.com/styleone/m5.png" style="margin-right: 10px;width: 22px;margin-top: 4px;">
+                    </div>`).insertBefore('.nav-tabs');
+            
+$(`<div class="bg" style="    width: 100%;
+    height: 25px;
+    position: absolute;
+top: 599px;
+    z-index: 3;">
+                    <div class="primaryColor" style="border-bottom: 30px solid;
+    border-bottom: 30px solid;
+    border-left: 33px solid transparent;
+    height: 0;
+    width: 47%;
+    float: right;
+    position: absolute;
+    top: -10px;
+    right: 0px!important;
+    z-index: 3;">
+                        <div style="float: right;padding: 7px 0;color: white; text-align: right;padding-right: 5px">
+                            <a href="https://mobail.host/" target="_blank" style="width: 24%;" type="a">
+                                <img src="https://awtar-iq.com/sico/1633967557803.gif" width="70%" style="float: left">
+                            </a>
+                            برمجة
+                        </div></div>
+                    <div style="width: 45%;float: left;padding:  0;color: white; ">
+                        تصميم
+                        <img src="https://awtar-iq.com/sico/1633967129402.gif" style="margin-top: -3px;float: left;margin-right: 5px; width: 38%;">
+                    </div>
+                </div>`).insertBefore('.nav-tabs');
+
+$(`<div style="padding: 10px;
+    float: left;
+    height: 120px;
+    border-radius: 6px;
+    box-shadow: 0px 5px 5px rgb(59 57 56), 0px 2px 1px rgb(0 0 0);
+    position: absolute;
+margin-top: 85px!important;
+    right: 39px;
+    background-color: #3b3a3a;
+    width: 79%!important;">
+                            <div style="background-image: url(https://s3wlf.com/styleone/m1.png);background-size: cover;background-color: #89867f;width: 100%;height: 100%;border-radius: 6px;box-shadow: 3px 3px 3px rgb(59, 57, 56), 0 2px 2px rgb(0, 0, 0);padding: 0 40px;">
+                                <div id="l1" style="padding:8px;width:100%;" class="grow break tab-pane fade hid">
+                                    <input style="width: 100%;opacity: 0;border: none;padding: 2px 3px;text-align: center;margin: 2px 0 5px;" disabled="disabled">
+</div></div></div>`).insertBefore('.nav-tabs');
+
+
+
+
+$('.label.label-primary.mini.fl').html(`  `);
+
+
+
+
+
+
+
+
+
+            }
+            catch (e){
+                console.log(e)
+            }
