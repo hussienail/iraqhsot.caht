@@ -1,3 +1,160 @@
+span#name {
+    position: relative;
+    color: #fff;
+    display: block;
+    top: 45px;
+    font-size: 12px !important;
+    background: #000;
+    top: 70px!important;
+    margin: -24px;
+    border: 2px solid #dc3545;
+    font-family: jazeera,FontAwesome;
+    font-size: 11px!important;
+}
+.label-primary[href]:focus, .label-primary[href]:hover {
+    background-color: #b7423f;
+}
+span.corner.fa.fa-user.label.label-primary.fr.uc {
+    display: inline!important;
+}
+
+span.corner.fa.fa-user.label.label-primary.fr.uc {
+    display: inline!important;
+}
+::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+}
+::-webkit-scrollbar-corner {
+    background: transparent;
+}
+::-webkit-scrollbar-thumb {
+    background: #3a3a39;
+    border: 71px none #fff;
+    border-radius: 31px;
+    background-image: -webkit-linear-gradient( 
+45deg ,rgba(255,255,255,.2) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.2) 50%,rgba(255,255,255,.2) 75%,transparent 75%,transparent)!important;
+}
+::-webkit-scrollbar-track {
+    background: #f8f9fa;
+    border: 65px none #fff;
+    border-radius: 34px;
+}
+div#dpnl.dpnl.bg.tab-content {
+    padding: 2px 5px;
+    border-radius: 10px;
+    box-shadow: 5px 4px 30px #000;
+    border: 3px solid hsla(0,0%,100%,.8588235294117647)!important;
+    background: hsla(0,0%,100%,.8588235294117647)!important;
+animation: fuck 1s !important;
+}
+ @keyframes fuck {0%{-webkit-transform:translate3d(100%,0,0);
+    {
+        {transform:translate3d(100%,0,0);visibility:visible }
+        to
+    }
+    {
+        -webkit-transform:translateZ(0);transform:translateZ(0)}
+    }
+}
+ul.nav.nav-tabs.fl li .fa-user-plus:before {
+    color: red;
+    content: "\f097";
+    -webkit-animation: mymove .5s infinite;
+    animation: mymove .5s infinite;
+}
+@-webkit-keyframes mymove {
+  from {
+    color:red;
+  }
+  to {
+    color:#FFF;
+  }
+}
+.label.tc.border.btn.fl {
+    cursor: pointer;
+    text-align: center;
+    padding-top: .3em;
+    border: 1px solid #000;
+    margin-top: 3px;
+    height: 32px;
+    font-weight: 700;
+    position: relative;
+    margin-bottom: .2rem;
+    border-radius: 40px 40px 0px 40px !important;
+    border: 1px solid #FFE0F6 !important;
+    font-family: 'jazeera',FontAwesome;
+border-radius: 0px 45px 37px 40px !important;
+    border: 1px solid #FFE0F6 !important;
+    background: linear-gradient( 
+-45deg , #cc31cc, #ff00ff2e, #635e63, #228eaf9e);
+    background-size: 400% 400%;
+    animation: asim 10s ease infinite;
+    Color: #fff;
+}
+   @keyframes asim {
+    0% {
+        background-position: 30% 0%;
+    }
+    50% {
+        background-position: 100% 20%;
+    }
+ 80% {
+        background-position: 30% 20%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+
+}
+div#dpnl.dpnl.bg.tab-content {
+    padding: 2px 5px;
+    border-radius: 10px;
+    box-shadow: 5px 4px 30px #000;
+    border: 3px solid hsla(0,0%,100%,.8588235294117647)!important;
+    background: hsla(0,0%,100%,.8588235294117647)!important;
+animation: fuck 1s !important;
+}
+ @keyframes fuck {0%{-webkit-transform:translate3d(100%,0,0);
+    {
+        {transform:translate3d(100%,0,0);visibility:visible }
+        to
+    }
+    {
+        -webkit-transform:translateZ(0);transform:translateZ(0)}
+    }
+}
+
+.u-pic.lazy.fitimg {
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: .25rem;
+animation: seo 3.5s !important;
+    height: auto;
+    width: 158px;
+    height: 158px;
+    border-radius: 20px;
+    background-color: #ffffff00;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(#41d8fd, #337caf), linear-gradient(#ea44ca, #8c1d8e), linear-gradient(#48fcfd, #b993bf), linear-gradient(#b084b7, #48fdfe);
+    -webkit-animation: rotateThis 3s linear infinite;
+    animation: rotateThis 3s linear infinite;
+}
+.room.borderg.hand.nosel.fl .fa-microphone:before {
+    margin: 0 0 0 -18px;
+    font-size: 20px;
+    color: #ff0a0a;
+     -webkit-animation: mymove .5s infinite; 
+     animation: mymove .5s infinite; 
+}
+@-webkit-keyframes mymove {
+  from {
+    color:red;
+  }
+  to {
+    color:#FFF;
+  }
+
 button.border.btn.label.label-success.fl.fa.fa-plus {
     color: #ffffff !important;
     font-family: jazeera, FontAwesome;
