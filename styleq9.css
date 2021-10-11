@@ -1,4 +1,203 @@
- 
+ }
+.ae.fa.label.label-primary.fa-user {
+    border-color: #000000 !important;
+    width: 50px !important;
+    padding: 7px 12px 5px 9px!important;
+    border-radius: 21px 0 0 17px!important;
+    border-style: solid!important;
+    border-left: 4px solid!important;
+    border-left-style: groove !important;
+    border-right: 2px solid #dc3545 !important;
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgb(0 0 0 / 0%);
+    position: relative;
+}
+
+.ae.fa.label.label-primary.fa-user:hover::after {
+     content: "التواجد الان";
+    background-color: #f00;
+    top: -32px;
+    left: 4px;
+    position: absolute;
+    border-radius: 6px;
+    border: 4px solid #888 !important;
+}
+.ae.fa.label.label-primary.fa-user:hover::before {
+    pointer-events: none;
+    position: absolute;
+    z-index: -1;
+    content: '';
+    border-style: solid;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+    left: calc(50% - 10px);
+    top: -12px;
+    border-width: 0 10px 10px 10px;
+    border-color: transparent transparent #888 transparent;
+}
+#chat__footer__menu__conversations_item {
+    border-color: #000000 !important;
+    width: 50px;
+    padding: 7px 10px 5px!important;
+    margin-left: -7px!important;
+    border-radius: 0!important;
+    border-left: 2px solid #dc3545 !important;
+    border-right: 2px solid #dc3545 !important;
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgb(0 0 0 / 0%);
+    position: relative;
+}
+
+#chat__footer__menu__conversations_item:hover::after {
+    content: "الرسايل الخاصة";  
+    background-color: #f00;
+    top: -32px;
+    left: -7px;
+    position: absolute;
+    border-radius: 6px;
+    border: 4px solid #888 !important;
+}
+#chat__footer__menu__conversations_item:hover::before {
+    pointer-events: none;
+    position: absolute;
+    z-index: -1;
+    content: '';
+    border-style: solid;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+    left: calc(50% - 10px);
+    top: -12px;
+    border-width: 0 10px 10px 10px;
+    border-color: transparent transparent #888 transparent;
+}
+#chat__footer__menu__rooms_item {
+    border-color: #000000 !important;
+    width: 50px;
+    padding: 7px 10px 5px!important;
+    margin-left: -6px!important;
+    border-radius: 0!important;
+    border-left: 2px solid #dc3545 !important;
+    border-right: 2px solid #dc3545 !important;
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgb(0 0 0 / 0%);
+    position: relative; 
+}
+#chat__footer__menu__rooms_item:hover::after {
+    content: "غرف الدردشة";
+    background-color: #f00;
+    top: -32px;
+    left: -7px;
+    position: absolute;
+    border-radius: 6px;
+    border: 4px solid #888 !important;
+}
+#chat__footer__menu__rooms_item:hover::before {
+    pointer-events: none;
+    position: absolute;
+    z-index: -1;
+    content: '';
+    border-style: solid;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+    left: calc(50% - 10px);
+    top: -12px;
+    border-width: 0 10px 10px 10px;
+    border-color: transparent transparent #888 transparent;
+}
+#chat__footer__menu__wall_item {  
+    border-color: #000000 !important;
+    width: 50px;
+    padding: 7px 10px 5px!important;
+    margin-left: -7px!important;
+    border-radius: 0!important;
+    border-left: 2px solid #dc3545 !important;
+    border-right: 2px solid #dc3545 !important;
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgb(0 0 0 / 0%);
+    position: relative;
+}
+#chat__footer__menu__wall_item:hover::after {
+    content: "جدار النشر";  
+    background-color: #f00;
+    top: -32px;
+    left: 0px;
+    position: absolute;
+    border-radius: 6px;
+    border: 4px solid #888 !important;
+}
+#chat__footer__menu__wall_item:hover::before {
+    pointer-events: none;
+    position: absolute;
+    z-index: -1;
+    content: '';
+    border-style: solid;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+    left: calc(50% - 10px);
+    top: -12px;
+    border-width: 0 10px 10px 10px;
+    border-color: transparent transparent #888 transparent;
+}
+#chat__footer__menu__settings_item {   
+    border-color: #000000 !important;
+    width: 50px;
+    padding: 7px 10px 5px!important;
+    margin-left: -7px!important;
+    border-radius: 0!important;
+    border-left: 2px solid #dc3545 !important;
+    border-right: 2px solid #dc3545 !important;
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgb(0 0 0 / 0%);
+    position: relative;
+}
+
+#chat__footer__menu__settings_item:hover::after {
+    content: "الاعدادات";  
+    background-color: #f00;
+    top: -32px;
+    left: 2px;
+    position: absolute;
+    border-radius: 6px;
+    border: 4px solid #888 !important;
+}
+#chat__footer__menu__settings_item:hover::before {
+    pointer-events: none;
+    position: absolute;
+    z-index: -1;
+    content: '';
+    border-style: solid;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+    left: calc(50% - 10px);
+    top: -12px;
+    border-width: 0 10px 10px 10px;
+    border-color: transparent transparent #888 transparent;
+}
 
 button.border.btn.label.label-success.fl.fa.fa-plus {
     color: #ffffff !important;
